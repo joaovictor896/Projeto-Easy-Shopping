@@ -10,3 +10,5 @@
 
 
 <img src="https://github.com/joaovictor896/Projeto-Easy-Shopping/blob/master/Computador.png?raw=true" />
+
+<p align="center"> <img src="https://github.com/joaovictor896/Projeto-Easy-Shopping/blob/master/Celular.png?raw=true" </p>
